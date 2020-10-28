@@ -41,7 +41,7 @@ setTimeout(function(){
                                       setTimeout(function(){
                                         terminal.innerHTML += "<b>]/</b>";
                                         setTimeout(function(){
-                                          terminal.innerHTML += "<br>setup compleet";
+                                          terminal.innerHTML += "<br>setup complete";
                                           setInterval(function(){
                                             console.log(":)")
                                             terminal.innerHTML += ".";
